@@ -11,5 +11,7 @@ This is a simple HTTP server using only C. The server can handle HTTP GET reques
    ```gcc serverconconcurrencia.c -o serverconconcurrencia```
 4. Run the server
    ```./serverconconcurrencia```  
-7. Access it through localhost:8080
+5. Access it through localhost:8080
 
+To see your own files just add .html that do not have css files on the same directory as the server and access to them through your browser. For example:
+``` localhost:8080/index.html``` 

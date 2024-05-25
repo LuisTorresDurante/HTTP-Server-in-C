@@ -7,6 +7,8 @@ This is a simple HTTP server using only C. The server can handle HTTP GET reques
 To compile the server, use the following command:
 ```sh
 gcc serverconconcurrencia.c -o serverconconcurrencia
-
-
+```
+To run the server, use:
+```sh
 ./serverconconcurrencia
+```

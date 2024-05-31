@@ -11,9 +11,9 @@ This is a simple HTTP server using only C. The server can handle HTTP GET reques
 2. Navigate to the project directory:
    ```cd HTTP-Server-in-C/```
 3. Compile the server:
-   ```gcc ServerWin.c -o ServerWin.exe -lws2_32```
-4. Run the server
-   ```./ServerWin.exe```  
+   ```gcc WinServer.c -o WinServer.exe -lws2_32```
+4. Run the server, to do so double click the file.
+   ```WinServer.exe```  
 5. Access it through localhost:8080
 
 ### Running on Linux/Unix(?)

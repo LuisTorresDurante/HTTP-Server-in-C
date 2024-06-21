@@ -16,7 +16,7 @@ This is a simple HTTP server using only C. The server can handle HTTP GET reques
    ```WinServer.exe```  
 5. Access it through localhost:8080
 
-### Running on Linux/Unix(?)
+### Running on Linux/Unix
 1. Clone the repository:
    ```git clone https://github.com/LuisTorresDurante/HTTP-Server-in-C```
 2. Navigate to the project directory:
